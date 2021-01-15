@@ -34,7 +34,7 @@ var cbarray = [
 ],
 [
     "Ascenders of Asgard", "0", "1", "7.11.2020 @ 20:00", "7", [
-        "Eli", "Durian", "Hero", "Kermit", "Veqma"],
+        "Eli", "Hero", "Veqma", "SaucePot", "DexterousLogic"],
         [6, 3, 2, 1, 2]
 ],
 [
