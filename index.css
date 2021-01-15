@@ -30,7 +30,7 @@ body{
 .gridcontainer{
     display: grid;
     grid-template-areas: 
-    'upcomingcbs upcomingcbs recentcbs recentcbs recentcbs'
+    'recentcbs recentcbs upcomingcbs upcomingcbs upcomingcbs'
     'events events events standings standings';
 
     position: relative;
@@ -54,12 +54,6 @@ body{
     border: 10px solid orange;
     z-index: 10;
 }
-
-.gridcontainer #upcomingcbs{
-    background: url(Data/icon1.jpg);
-    background-size: cover;
-    transition: 0.2s;
-}
 .gridcontainer div p{
     font-family: Roboto;
     font-weight: bold;
@@ -75,6 +69,12 @@ body{
 }
 
 .gridcontainer #recentcbs{
+    background: url(Data/icon1.jpg);
+    background-size: cover;
+    transition: 0.2s;
+}
+
+.gridcontainer #upcomingcbs{
     background: url(Data/icon2.jpg);
     background-size: cover;
     transition: 0.2s;
