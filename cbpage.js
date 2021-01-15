@@ -2,7 +2,7 @@
 
 var cbarray = [
     
-    [
+[
     "Arsin", "W", "DQ", "29.8.2020 @ 17:00", "1", [
         "Eli", "Veqma", "Durian", "Seijaru", "MG"],
         [5, 3, 2, 3, 2]
@@ -48,7 +48,7 @@ var cbarray = [
         [4, 4, 5, 2, 0]
 ],
 [
-    "Poseidons Night (BO3)", "(2) 9", "0 (0)", "22.11.2020 @ 20:00", "10", [
+    "Poseidons Night (BO3)", "9", "0 (2-0)", "22.11.2020 @ 20:00", "10", [
         "Eli", "Durian", "Hero", "Kermit", "Veqma"],
         [12, 9, 4, 3, 5]
 ],
@@ -154,6 +154,11 @@ function CBarrayToString(array){
     scoreUs = parseInt(array[1]);
     scoreThem = parseInt(array[2]);
 
+    if (array[1] == "W"){
+        scoreUs = 1;
+        scoreThem = 0;
+    }
+
     if (scoreUs > scoreThem){
         str += "<p class='cbvictory'>Victory</p>";
     }
@@ -231,6 +236,24 @@ function ShowPopup(id){
     highlightStr = "p" + num + " = document.getElementById('p" + num + "');"
     highlight = eval(highlightStr);
     highlight.style.color = "green";
+
+    imageHolder = document.getElementById("content");
+
+    switch(randInt(1, 4)){
+        case 1:
+        imageHolder.style.backgroundImage = "url('Data/CBbg.png')";
+        break;
+        case 2:
+        imageHolder.style.backgroundImage = "url('Data/CBbg1.png')";
+        break;
+        case 3:
+        imageHolder.style.backgroundImage = "url('Data/CBbg2.png')";
+        break;
+        case 4:
+        imageHolder.style.backgroundImage = "url('Data/CBbg3.png')";
+        break;
+    }
+    
 }
 
 function HidePopup(){
@@ -247,6 +270,10 @@ function MoveNavbar(pixels){
     navbar.style.backgroundPositionX = timesMoved * pixels + "px";
     navbar.style.backgroundPositionY = -timesMoved * pixels + "px";
     timesMoved++;
+}
+
+function randInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) ) + min;
 }
 
 window.onload = function(){
