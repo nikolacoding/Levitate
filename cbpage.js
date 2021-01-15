@@ -3,127 +3,127 @@
 var cbarray = [
     
     [
-    "Arsin", "W", "DQ", "12.1.2021 @ 18:00", "1", [
+    "Arsin", "W", "DQ", "29.8.2020 @ 17:00", "1", [
         "Eli", "Veqma", "Durian", "Seijaru", "MG"],
         [5, 3, 2, 3, 2]
 ],
 [
-    "Purification", "5", "0", "9.1.2021 @ 20:00", "2", [
+    "Purification", "5", "0", "30.8.2020. @ 17:00", "2", [
         "Aspect", "Veqma", "Jellevk", "Rexehh", "N/A"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Arsin", "12", "0", "9.1.2021 @ 20:00", "3", [
+    "Arsin", "12", "0", "6.9.2020 @ 17:00", "3", [
         "Seijaru/DexterousLogic", "Eli/Veqma", "N/A", "N/A", "N/A"],
         [14, 4, 2, 3, 2]
 ],
 [
-    "Gallant", "1", "0", "9.1.2021 @ 20:00", "4", [
+    "Gallant", "1", "0", "26.9.2020 @ 17:00", "4", [
         "Eli", "Aspect", "DexterousLogic", "$aucePot", "Veqma"],
         [2, 2, 2, 2, 7]
 ],
 [
-    "Obvious", "3", "0", "9.1.2021 @ 20:00", "5", [
+    "Obvious", "3", "0", "26.9.2020 @ 18:00", "5", [
         "Eli", "Aspect", "DexterousLogic", "$aucePot", "Veqma"],
         [4, 4, 3, 3, 1]
 ],
 [
-    "M3L33+", "W", "DQ", "9.1.2021 @ 20:00", "6", [
+    "M3L33+", "W", "DQ", "17.10.2020 @ 19:00", "6", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Ascenders of Asgard", "0", "1", "9.1.2021 @ 20:00", "7", [
+    "Ascenders of Asgard", "0", "1", "7.11.2020 @ 20:00", "7", [
         "Eli", "Durian", "Hero", "Kermit", "Veqma"],
         [6, 3, 2, 1, 2]
 ],
 [
-    "Poseidons Night", "9", "0", "9.1.2021 @ 20:00", "8", [
+    "Poseidons Night", "9", "0", "16.11.2020 @ 20:00", "8", [
         "Hero", "Eli", "MURSH", "N/A", "N/A"],
         [5, 7, 3, 0, 0]
 ],
 [
-    "Gallant", "5", "0", "9.1.2021 @ 20:00", "9", [
+    "Gallant", "5", "0", "21.11.2020 @ 20:00", "9", [
         "Eli", "Durian", "Kermit", "dawid", "N/A"],
         [4, 4, 5, 2, 0]
 ],
 [
-    "Poseidons Night (BO3)", "(2) 9", "0 (0)", "9.1.2021 @ 20:00", "10", [
+    "Poseidons Night (BO3)", "(2) 9", "0 (0)", "22.11.2020 @ 20:00", "10", [
         "Eli", "Durian", "Hero", "Kermit", "Veqma"],
         [12, 9, 4, 3, 5]
 ],
 [
-    "Cosplay & Art", "W", "DQ", "9.1.2021 @ 20:00", "11", [
+    "Cosplay & Art", "W", "DQ", "26.11.2020 @ 17:00", "11", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Anyways", "W", "DQ", "9.1.2021 @ 20:00", "12", [
+    "Anyways", "W", "DQ", "26.11.2021 @ 16:00", "12", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Armonia", "3", "0", "9.1.2021 @ 20:00", "13", [
+    "Armonia", "3", "0", "27.11.2020 @ 20:00", "13", [
         "Hypno", "Dute", "Heydn", "Haze", "Guffe"],
         [3, 2, 8, 0, 2]
 ],
 [
-    "Purification", "11", "0", "9.1.2021 @ 20:00", "14", [
+    "Purification", "11", "0", "28.11.2020 @ 20:00", "14", [
         "semi-DQ", "N/A", "N/A", "N/A", "N/A"],
         [15, 2, 2, 3, 2]
 ],
 [
-    "Poseidons Night", "W", "DQ", "9.1.2021 @ 20:00", "15", [
+    "Poseidons Night", "W", "DQ", "29.11.2020 @ 19:00", "15", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Demon Slayers", "3", "0", "9.1.2021 @ 20:00", "16", [
+    "Demon Slayers", "3", "0", "5.12.2020 @ 19:00", "16", [
         "EDGY", "MiniKMarty", "dawid", "Hypno", "Hero"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Mysticis", "W", "DQ", "9.1.2021 @ 20:00", "17", [
+    "Mysticis", "W", "DQ", "6.12.2020 @ 19:00", "17", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Tews", "2", "0", "9.1.2021 @ 20:00", "18", [
+    "Tews", "2", "0", "12.12.2020 @ 19:00", "18", [
         "Unknown", "Unknown", "Unknown", "Unknown", "Durian"],
         [0, 0, 0, 0, 6]
 ],
 [
-    "BOP", "DQ", "L", "9.1.2021 @ 20:00", "19", [
+    "BOP", "DQ", "L", "12.12.2020 @ 20:00", "19", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
         [7, 3, 2, 3, 2]
 ],
 [
-    "Frost", "2", "0", "9.1.2021 @ 20:00", "20", [
+    "Frost", "2", "0", "20.12.2020 @ 20:00", "20", [
         "Eli", "Cephy", "Durian", "Veqma", "Seijaru"],
         [7, 2, 2, 1, 3]
 ],
 [
-    "Vinheim", "0", "7", "9.1.2021 @ 20:00", "21", [
+    "Vinheim", "0", "7", "21.12.2020 @ 20:00", "21", [
         "Veqma", "Seijaru", "Durian", "Aspect", "MURSH"],
         [2, 2, 2, 1, 1]
 ],
 [
-    "Gallant", "11", "0", "9.1.2021 @ 20:00", "22", [
+    "Gallant", "11", "0", "25.12.2020 @ 20:00", "22", [
         "Eli", "Durian", "N/A", "N/A", "N/A"],
         [5, 10, 0, 0, 0]
 ],
 [
-    "M3L33", "7", "0", "9.1.2021 @ 20:00", "23", [
+    "M3L33", "7", "0", "26.12.2020 @ 20:00", "23", [
         "Ivy Haze", "MiniKMarty", "Cryypto", "N/A", "N/A"],
         [4, 9, 2, 0, 0]
 ],
 [
-    "Tews", "5", "0", "9.1.2021 @ 20:00", "24", [
+    "Tews", "5", "0", "10.1.2021 @ 20:00", "24", [
         "Seijaru", "Eli", "DexterousLogic", "MG", "N/A"],
         [2, 6, 5, 2, 0]
 ],
 [
-    "The Comedy Zone", "0", "1", "9.1.2021 @ 20:00", "25", [
+    "The Comedy Zone", "0", "1", "14.1.2021 @ 20:00", "25", [
         "Hypno", "Guffe", "SaucePot", "MiniKMarty", "Dawid"],
         [3, 1, 2, 4, 5]
 ]
