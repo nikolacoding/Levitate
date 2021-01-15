@@ -126,6 +126,11 @@ var cbarray = [
     "The Comedy Zone", "0", "1", "14.1.2021 @ 20:00", "25", [
         "Hypno", "Guffe", "SaucePot", "MiniKMarty", "Dawid"],
         [3, 1, 2, 4, 5]
+],
+[
+    "Armonia", "10", "0", "15.1.2021 @ 21:00", "26", [
+        "Hypno", "MiniK", "Amin", "N/A", "N/A"],
+        [8, 6, 1, 4, 5]
 ]
 ];
 

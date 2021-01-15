@@ -10,3 +10,11 @@ function MoveNavbar(pixels){
 window.onload = function(){
     setInterval(function(){ MoveNavbar(5) }, 75)
 }
+
+function openWindow(path){
+    window.open(path, "_self");
+}
+
+function ComingSoon(){
+    alert("Coming soon");
+}

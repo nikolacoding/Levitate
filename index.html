@@ -8,11 +8,20 @@
         <link rel="icon" href="Data/levitate.ico">   
     </head>
     <body>
-        <div id="navbar">
-            <p class="title">Levitate</p>
-
-            <a href="cbpage.html">CB</a>
-            <a href="tournamentpage.html">Tournaments</a>
+        <p class="title">Welcome to Levitate!</p>
+        <div class="gridcontainer">
+            <div id="upcomingcbs" onclick='openWindow("cbpage.html")'>
+                <p>Upcoming CBs</p>
+            </div>
+            <div id="recentcbs" onclick="ComingSoon()">
+                <p>Recent CBs</p>
+            </div>
+            <div id="events" onclick="ComingSoon()">
+                <p>Events</p>
+            </div>
+            <div id="standings" onclick="ComingSoon()">
+                <p>Standings</p>
+            </div>
         </div>
     </body>
 </html>

@@ -2,6 +2,10 @@ body{
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,41,9,1) 33%, rgba(78,78,102,1) 60%);
 }
 
+p{
+    user-select: none;
+}
+
 #navbar{
     display: block;
     background: url(Data/fox.jpg);
@@ -14,11 +18,12 @@ body{
     height: 50px;
     width: 100%;
     z-index: 5;
-    transition: background-position-x 0.1s, background-position-y 0.1s, border-bottom 0.3s;
+    transition: background-position-x 0.1s, background-position-y 0.1s, border-bottom 0.3s, height 0.2s;
 }
 
 #navbar:hover{
     border-bottom: 3px solid orange;
+    height: 60px;
 }
 
 #navbar .title{
@@ -30,7 +35,7 @@ body{
     color: white;
 
     position: relative;
-    left: 5px;
+    left: 1770px;
     top: 5px;
     margin: 0;
     
@@ -38,8 +43,10 @@ body{
     transition: 0.2s;
 }
 
-#navbar .title:hover{
+
+#navbar:hover .title{
     color: orange;
+    top: 10px;
 }
 
 #navbar a{
@@ -51,24 +58,32 @@ body{
     color: white;
     text-decoration: none;
 
-    position: relative;
-    left: 1570px;
-    bottom: 35px;
-    margin-left: 20px;
+    position: fixed;
+    top: 5px;
 
     transition: 0.2s;
 }
 
+#navbar:hover a{
+    top: 10px;
+}
+
 #navbar a:hover{
-    color:red;
-    left: 1560px;
+    color: red;
+}
+
+#navbar .homeref{
+    left: 5px;
+}
+#navbar .tournamentref{
+    left: 115px;
 }
 
 #cbresults{
     margin: auto;
     display: block;
     width: 600px;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 #cbresults p{
@@ -185,7 +200,6 @@ body{
 }
 
 #popup #content #cbstatus{
-
     text-align: left;
     font-size: 30px;
     left: 5px;
