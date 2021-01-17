@@ -1,0 +1,79 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,41,9,1) 33%, rgba(78,78,102,1) 60%);
+}
+
+p{
+    user-select: none;
+}
+
+#navbar{
+    display: block;
+    background: url(Data/fox.jpg);
+    background-size: 300px 300px;
+    border-bottom: 3px solid white;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 50px;
+    width: 100%;
+    z-index: 5;
+    transition: background-position-x 0.1s, background-position-y 0.1s, border-bottom 0.3s, height 0.2s;
+}
+
+#navbar:hover{
+    border-bottom: 3px solid orange;
+    height: 60px;
+}
+
+#navbar .title{
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px 1px black;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+
+    position: relative;
+    left: 1770px;
+    top: 5px;
+    margin: 0;
+    
+    cursor: default;
+    transition: 0.2s;
+}
+
+#navbar:hover .title{
+    color: orange;
+    top: 10px;
+}
+
+#navbar a{
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px 1px black;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+
+    position: fixed;
+    top: 5px;
+
+    transition: 0.2s;
+}
+
+#navbar:hover a{
+    top: 10px;
+}
+
+#navbar a:hover{
+    color: red;
+}
+
+#navbar .homeref{
+    left: 5px;
+}
+#navbar .tournamentref{
+    left: 115px;
+}

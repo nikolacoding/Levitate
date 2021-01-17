@@ -158,6 +158,28 @@ p{
     margin-bottom: 100px;
 }
 
+#cbresults #cbtype{
+    font-family: Roboto;
+    font-size: 25px;
+
+    top: -5px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#cbresults #cbtype .cbdbl{
+    color: orange;
+}
+
+#cbresults #cbtype .cbfriendly{
+    color: gray;
+}
+
+#cbresults #cbtype .cbinhouse{
+    color: cyan;
+}
+
 #popup{
     opacity: 0;
     visibility: hidden;
@@ -204,7 +226,7 @@ p{
     font-size: 30px;
     left: 5px;
     position: fixed;
-    top: 640px; 
+    top: 580px; 
 }
 
 #popup #content #datetime{
@@ -225,6 +247,16 @@ p{
     left: 5px;
     position: fixed;
     top: 675px;
+}
+
+#popup #content #cbtype{
+    color: yellow;
+
+    text-align: left;
+    font-size: 30px;
+    left: 5px;
+    position: fixed;
+    top: 640px;
 }
 
 .xbutton{

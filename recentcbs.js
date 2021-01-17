@@ -5,132 +5,142 @@ var cbarray = [
 [
     "Arsin", "W", "DQ", "29.8.2020 @ 17:00", "1", [
         "Eli", "Veqma", "Durian", "Seijaru", "MG"],
-        [5, 3, 2, 3, 2]
+        [5, 3, 2, 3, 2], "Friendly"
 ],
 [
     "Purification", "5", "0", "30.8.2020. @ 17:00", "2", [
         "Aspect", "Veqma", "Jellevk", "Rexehh", "N/A"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "Friendly"
 ],
 [
     "Arsin", "12", "0", "6.9.2020 @ 17:00", "3", [
         "Seijaru/DexterousLogic", "Eli/Veqma", "N/A", "N/A", "N/A"],
-        [14, 4, 2, 3, 2]
+        [14, 4, 2, 3, 2], "Friendly"
 ],
 [
     "Gallant", "1", "0", "26.9.2020 @ 17:00", "4", [
         "Eli", "Aspect", "DexterousLogic", "$aucePot", "Veqma"],
-        [2, 2, 2, 2, 7]
+        [2, 2, 2, 2, 7], "Friendly"
 ],
 [
     "Obvious", "3", "0", "26.9.2020 @ 18:00", "5", [
         "Eli", "Aspect", "DexterousLogic", "$aucePot", "Veqma"],
-        [4, 4, 3, 3, 1]
+        [4, 4, 3, 3, 1], "DBL"
 ],
 [
     "M3L33+", "W", "DQ", "17.10.2020 @ 19:00", "6", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "DBL"
 ],
 [
     "Ascenders of Asgard", "0", "1", "7.11.2020 @ 20:00", "7", [
         "Eli", "Hero", "Veqma", "SaucePot", "DexterousLogic"],
-        [6, 3, 2, 1, 2]
+        [6, 3, 2, 1, 2], "DBL"
 ],
 [
     "Poseidons Night", "9", "0", "16.11.2020 @ 20:00", "8", [
         "Hero", "Eli", "MURSH", "N/A", "N/A"],
-        [5, 7, 3, 0, 0]
+        [5, 7, 3, 0, 0], "Friendly"
 ],
 [
     "Gallant", "5", "0", "21.11.2020 @ 20:00", "9", [
         "Eli", "Durian", "Kermit", "dawid", "N/A"],
-        [4, 4, 5, 2, 0]
+        [4, 4, 5, 2, 0], "Friendly"
 ],
 [
     "Poseidons Night (BO3)", "9", "0 (2-0)", "22.11.2020 @ 20:00", "10", [
         "Eli", "Durian", "Hero", "Kermit", "Veqma"],
-        [12, 9, 4, 3, 5]
+        [12, 9, 4, 3, 5], "Friendly"
 ],
 [
     "Cosplay & Art", "W", "DQ", "26.11.2020 @ 17:00", "11", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "Friendly"
 ],
 [
     "Anyways", "W", "DQ", "26.11.2021 @ 16:00", "12", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "Friendly"
 ],
 [
     "Armonia", "3", "0", "27.11.2020 @ 20:00", "13", [
         "Hypno", "Dute", "Heydn", "Haze", "Guffe"],
-        [3, 2, 8, 0, 2]
+        [3, 2, 8, 0, 2], "Friendly"
 ],
 [
     "Purification", "11", "0", "28.11.2020 @ 20:00", "14", [
         "semi-DQ", "N/A", "N/A", "N/A", "N/A"],
-        [15, 2, 2, 3, 2]
+        [15, 2, 2, 3, 2], "Friendly"
 ],
 [
     "Poseidons Night", "W", "DQ", "29.11.2020 @ 19:00", "15", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "DBL"
 ],
 [
     "Demon Slayers", "3", "0", "5.12.2020 @ 19:00", "16", [
         "EDGY", "MiniKMarty", "dawid", "Hypno", "Hero"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "Friendly"
 ],
 [
     "Mysticis", "W", "DQ", "6.12.2020 @ 19:00", "17", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "DBL"
 ],
 [
     "Tews", "2", "0", "12.12.2020 @ 19:00", "18", [
         "Unknown", "Unknown", "Unknown", "Unknown", "Durian"],
-        [0, 0, 0, 0, 6]
+        [0, 0, 0, 0, 6], "Friendly"
 ],
 [
     "BOP", "DQ", "L", "12.12.2020 @ 20:00", "19", [
         "Eli", "HoKermit", "Durian", "MiniKMarty", "DexterousLogic"],
-        [7, 3, 2, 3, 2]
+        [7, 3, 2, 3, 2], "DBL"
 ],
 [
     "Frost", "2", "0", "20.12.2020 @ 20:00", "20", [
         "Eli", "Cephy", "Durian", "Veqma", "Seijaru"],
-        [7, 2, 2, 1, 3]
+        [7, 2, 2, 1, 3], "DBL"
 ],
 [
     "Vinheim", "0", "7", "21.12.2020 @ 20:00", "21", [
         "Veqma", "Seijaru", "Durian", "Aspect", "MURSH"],
-        [2, 2, 2, 1, 1]
+        [2, 2, 2, 1, 1], "Friendly"
 ],
 [
     "Gallant", "11", "0", "25.12.2020 @ 20:00", "22", [
         "Eli", "Durian", "N/A", "N/A", "N/A"],
-        [5, 10, 0, 0, 0]
+        [5, 10, 0, 0, 0], "Friendly"
 ],
 [
     "M3L33", "7", "0", "26.12.2020 @ 20:00", "23", [
         "Ivy Haze", "MiniKMarty", "Cryypto", "N/A", "N/A"],
-        [4, 9, 2, 0, 0]
+        [4, 9, 2, 0, 0], "Friendly"
 ],
 [
-    "Tews", "5", "0", "10.1.2021 @ 20:00", "24", [
+    "M3L33", "5", "0", "28.12.2020 @ 20:00", "24", [
+        "Ivy Haze", "MiniKMarty", "Cryypto", "N/A", "N/A"],
+        [4, 9, 2, 0, 0], "In-house", "Team Eli", "Team Durian"
+],
+[
+    "Tews", "5", "0", "10.1.2021 @ 20:00", "25", [
         "Seijaru", "Eli", "DexterousLogic", "MG", "N/A"],
-        [2, 6, 5, 2, 0]
+        [2, 6, 5, 2, 0], "Friendly"
 ],
 [
-    "The Comedy Zone", "0", "1", "14.1.2021 @ 20:00", "25", [
+    "The Comedy Zone", "0", "1", "14.1.2021 @ 20:00", "26", [
         "Hypno", "Guffe", "SaucePot", "MiniKMarty", "Dawid"],
-        [3, 1, 2, 4, 5]
+        [3, 1, 2, 4, 5], "Friendly"
 ],
 [
-    "Armonia", "10", "0", "15.1.2021 @ 21:00", "26", [
+    "Armonia", "10", "0", "15.1.2021 @ 21:00", "27", [
         "Hypno", "MiniK", "Amin", "N/A", "N/A"],
-        [8, 6, 1, 4, 5]
+        [8, 6, 1, 4, 5], "Friendly"
+],
+[
+    "Levitate", "2", "0", "16.1.2021 @ 20:00", "28", [
+        "Hypno", "MiniK", "Amin", "N/A", "N/A"],
+        [8, 6, 1, 4, 5], "In-house", "Team Sauce", "Team MiniK"
 ]
 ];
 
@@ -138,19 +148,26 @@ function CBarrayToString(array){
 
     str = "";
 
-    if (array[2] == "DQ"){
-        str += '<span class="noentry">';
-        str += "<p class='cbtitle' id='noentry'>Levitate vs " + array[0] + "</p>";
-        str += '</span>';
-    }
-    else if (array[1] == "DQ"){
-        str += '<span class="noentry">';
-        str += "<p class='cbtitle' id='noentry'>Levitate vs " + array[0] + "</p>";
-        str += '</span>';
+    if (array[7] != "In-house"){
+        if (array[2] == "DQ"){
+            str += '<span class="noentry">';
+            str += "<p class='cbtitle' id='noentry'>Levitate vs " + array[0] + "</p>";
+            str += '</span>';
+        }
+        else if (array[1] == "DQ"){
+            str += '<span class="noentry">';
+            str += "<p class='cbtitle' id='noentry'>Levitate vs " + array[0] + "</p>";
+            str += '</span>';
+        }
+        else{
+            str += '<span class="entry">';
+            str += "<p class='cbtitle' onclick='ShowPopup(" + array[4] + ")'>Levitate vs " + array[0] + "</p>";
+            str += '</span>';
+        }
     }
     else{
-        str += '<span class="entry">';
-        str += "<p class='cbtitle' onclick='ShowPopup(" + array[4] + ")'>Levitate vs " + array[0] + "</p>";
+        str += '<span class="noentry">';
+        str += "<p class='cbtitle' id='noentry'>" + array[8] + " vs " + array[9] + "</p>";
         str += '</span>';
     }
 
@@ -164,11 +181,25 @@ function CBarrayToString(array){
         scoreThem = 0;
     }
 
-    if (scoreUs > scoreThem){
-        str += "<p class='cbvictory'>Victory</p>";
+    if (array[7] != "In-house"){
+        if (scoreUs > scoreThem){
+            str += "<p class='cbvictory'>Victory</p>";
+        }
+        else{
+            str += "<p class='cbdefeat'>Defeat</p>"; 
+        }
     }
-    else{
-        str += "<p class='cbdefeat'>Defeat</p>"; 
+
+    switch (array[7]){
+        case "DBL":
+            str += "<p id='cbtype'><span class='cbdbl'>DBL</span></p>";
+            break;
+        case "Friendly":
+            str += "<p id='cbtype'><span class='cbfriendly'>Friendly</span></p>";
+            break;
+        case "In-house":
+            str += "<p id='cbtype'><span class='cbinhouse'>In-house</span></p>";
+            break;
     }
 
     str += "<p class='cbdatetime'>" + array[3] + "</p>";
@@ -190,6 +221,7 @@ function ShowPopup(id){
     datetime = document.getElementById("datetime");
     mvp = document.getElementById("mvp");
     cbstatus = document.getElementById("cbstatus");
+    cbtypespan = document.getElementById("cbtypespan");
 
     p1.innerHTML = cbarray[id - 1][5][0] + " - " + cbarray[id - 1][6][0] + " stocks"
     p2.innerHTML = cbarray[id - 1][5][1] + " - " + cbarray[id - 1][6][1] + " stocks"
@@ -200,6 +232,23 @@ function ShowPopup(id){
 
     stocksUs = parseInt(cbarray[id - 1][1]);
     stocksThem = parseInt(cbarray[id - 1][2]);
+
+    switch (cbarray[id - 1][7]){
+        case "DBL":
+            cbtypespan.style.color = "orange";
+            cbtypespan.innerHTML = "DBL";
+            break;
+
+        case "Friendly":
+            cbtypespan.style.color = "gray";
+            cbtypespan.innerHTML = "Friendly";
+            break;
+
+        case "In-house":
+            cbtypespan.style.color = "cyan";
+            cbtypespan.innerHTML = "In-house";
+            break;
+    }
 
     if (stocksUs > stocksThem){
         cbstatus.innerHTML = "Victory";
