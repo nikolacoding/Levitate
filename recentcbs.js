@@ -138,7 +138,12 @@ var cbarray = [
         [8, 6, 1, 4, 5], "Friendly"
 ],
 [
-    "Levitate", "2", "0", "16.1.2021 @ 20:00", "28", [
+    "Reversal", "W", "DQ", "16.1.2021 @ 20:00", "28", [
+        "Hypno", "MiniK", "Amin", "N/A", "N/A"],
+        [8, 6, 1, 4, 5], "Friendly"
+],
+[
+    "Levitate", "2", "0", "16.1.2021 @ 20:00", "29", [
         "Hypno", "MiniK", "Amin", "N/A", "N/A"],
         [8, 6, 1, 4, 5], "In-house", "Team Sauce", "Team MiniK"
 ]
