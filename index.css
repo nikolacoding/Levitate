@@ -30,8 +30,8 @@ body{
 .gridcontainer{
     display: grid;
     grid-template-areas: 
-    'recentcbs recentcbs upcomingcbs upcomingcbs upcomingcbs'
-    'events events events standings standings';
+    'recentcbs recentcbs recentcbs upcomingcbs upcomingcbs'
+    'events events standings standings standings';
 
     position: relative;
     top: 150px;

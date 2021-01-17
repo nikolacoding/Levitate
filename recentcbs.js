@@ -146,6 +146,11 @@ var cbarray = [
     "Levitate", "2", "0", "16.1.2021 @ 20:00", "29", [
         "Hypno", "MiniK", "Amin", "N/A", "N/A"],
         [8, 6, 1, 4, 5], "In-house", "Team Sauce", "Team MiniK"
+],
+[
+    "Tews", "2", "0", "17.1.2021 @ 18:00", "30", [
+        "Eli", "Seijaru", "DexterousLogic", "MG", "Ivy Haze"],
+        [2, 3, 1, 7, 2], "DBL"
 ]
 ];
 
