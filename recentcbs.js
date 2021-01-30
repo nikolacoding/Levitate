@@ -156,6 +156,11 @@ var cbarray = [
     "M3L33", "1", "0", "24.1.2021 @ 19:00", "31", [
         "Eli", "MG", "Hypno", "Ivy Haze", "Seijaru"],
         [3, 7, 2, 1, 2], "DBL"
+],
+[
+    "Fantasy & Ash", "0", "5", "30.1.2021 @ 19:00", "32", [
+        "Eli", "MiniKMarty", "Cephy", "MG", "Seijaru"],
+        [2, 0, 3, 4, 1], "DBL"
 ]
 ];
 
