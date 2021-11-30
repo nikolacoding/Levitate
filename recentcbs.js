@@ -174,12 +174,7 @@ function CBarrayToString(array){
     str = "";
 
     if (array[7] != "In-house"){
-        if (array[2] == "DQ"){
-            str += '<span class="noentry">';
-            str += "<p class='cbtitle' id='noentry'>Levitate vs " + array[0] + "</p>";
-            str += '</span>';
-        }
-        else if (array[1] == "DQ"){
+        if (array[1] == "DQ" || array[2] == "DQ"){
             str += '<span class="noentry">';
             str += "<p class='cbtitle' id='noentry'>Levitate vs " + array[0] + "</p>";
             str += '</span>';
@@ -215,17 +210,24 @@ function CBarrayToString(array){
         }
     }
 
+    className = "";
+    text = "";
     switch (array[7]){
         case "DBL":
-            str += "<p id='cbtype'><span class='cbdbl'>DBL</span></p>";
+            className = "cbdbl";
+            text = "DBL";
             break;
         case "Friendly":
-            str += "<p id='cbtype'><span class='cbfriendly'>Friendly</span></p>";
+            className = "cbfriendly";
+            text = "Friendly";
             break;
         case "In-house":
-            str += "<p id='cbtype'><span class='cbinhouse'>In-house</span></p>";
+            className = "cbinhouse";
+            text = "In-house";
             break;
     }
+
+    str += `<p id='cbtype'><span class='${className}'>${text}</span></p>`;
 
     str += "<p class='cbdatetime'>" + array[3] + "</p>";
     return str;
